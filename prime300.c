@@ -2,7 +2,7 @@
 int main()
 {
     int i, n,f=0;
-    for (i = 2; i <= 300; i++)
+    for (i = 2; i <= 300; i++)w
     {
               f=0;
         for (n = 2; n <= i / 2; n++)
